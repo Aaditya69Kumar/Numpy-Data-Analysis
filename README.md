@@ -50,7 +50,7 @@ numpy-data-analysis-lab/
 ├── README.md
 ⚙️ How to Run
 1️.Clone the repository
-git clone https://github.com/your-username/numpy-data-analysis-lab.git
+git clone https://github.com/Aaditya69Kumar/Numpy-Data-Analysis.git
 2️. Navigate to project folder
 cd numpy-data-analysis-lab
 3️. Run the scripts
